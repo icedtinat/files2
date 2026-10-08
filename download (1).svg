@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="604" height="604" viewBox="0 0 604 604" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract rising bars mark</title>
+  <desc id="desc">White geometric bars rising from a squared base on a deep green background.</desc>
+
+  <rect width="604" height="604" fill="#1d3f27"/>
+
+  <!-- squared base -->
+  <path fill="#fff" d="M158 318h24v72h167v-72h24v96H158z"/>
+
+  <!-- horizontal bar -->
+  <path fill="#fff" d="M207 342h119v24H207z"/>
+
+  <!-- rising bars -->
+  <path fill="#fff" d="m210 289 119 27-5 23-119-27z"/>
+  <path fill="#fff" d="m222 254 117 37-8 23-117-37z"/>
+  <path fill="#fff" d="m254 202 106 77-15 20-106-77z"/>
+  <path fill="#fff" d="m294 162 90 80-18 19-90-80z"/>
+</svg>
